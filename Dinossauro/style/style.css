@@ -15,7 +15,7 @@ body {
     width: 60px;
     height: 60px;
     bottom: 0;
-    background-image: url(cactus.png);
+    background: red;
   }
   
   .game-over {
